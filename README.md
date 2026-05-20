@@ -1,9 +1,9 @@
 # dio-desafio-github
-Desafio de Projeto sobre Git/Github
+### Desafio de Projeto sobre Git/Github
 Repositório criado para o desafio de projeto do curso Introdução ao Git e ao GitHub da DIO
 
 ## Links Úteis
-[Síntaxe Básaica Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Síntaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## 📌 O que é Git vs. GitHub?
 
